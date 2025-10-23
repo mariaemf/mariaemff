@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/mariaemf/mariaemff/main/profile-summary-card-output/outrun/4-productive-time.svg)
+```
+
+    
